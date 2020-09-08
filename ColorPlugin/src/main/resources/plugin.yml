@@ -1,0 +1,6 @@
+name: Color_plugin
+version: ${project.version}
+main: ColorPlugin.ColorPlugin
+api-version: 1.15
+authors: [Fishi_Inc]
+description: A plugin that will make your chat cooler and minecraft more colorful.
